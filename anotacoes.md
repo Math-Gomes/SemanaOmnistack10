@@ -28,3 +28,8 @@ yarn create react-app <nomeDaPasta>
 
 // Pra começar o frontend
 yarn start
+
+expo init mobile
+template blank (só dar enter)
+
+yarn start // para começar o expo
