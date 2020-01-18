@@ -33,3 +33,5 @@ expo init mobile
 template blank (só dar enter)
 
 yarn start // para começar o expo
+
+A busca por techs considera devs num raio de 10km de distancia
